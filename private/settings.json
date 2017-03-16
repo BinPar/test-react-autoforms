@@ -1,0 +1,12 @@
+{
+  "showAPIDetails": false,
+  "public": {
+
+  },
+  "private": {
+    "connectionString": "mongodb://localhost:3001/meteor",
+    "filesBucketName": "fs",
+    "dbPoolSize": 4,
+    "mailURL": "smtp://df@ada.binpar.com:b1np4r.t34m@mail:25/"
+  }
+}

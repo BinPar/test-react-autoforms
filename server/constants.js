@@ -1,0 +1,28 @@
+export const KEY_CODES = {
+	BACKSPACE: 8,
+	TAB: 9,
+	ENTER: 13,
+	SHIFT: 16,
+	CTRL: 17,
+	ALT: 18,
+	CAPS_LOCK: 20,
+	ESC: 27,
+	SPACEBAR: 32,
+	PAGE_UP: 33,
+	PAGE_DOWN: 34,
+	END: 35,
+	HOME: 36,
+	LEFT_ARROW: 37,
+	UP_ARROW: 38,
+	RIGHT_ARROW: 39,
+	DOWN_ARROW: 40,
+	DELETE: 46,
+	CMD_RIGHT: 93,
+	CMD_LEFT: 91
+};
+
+export const ROLES = {
+	ADMIN: 'admin',
+	CANDIDATE: 'candidate',
+	FAMILY: 'family'
+};
